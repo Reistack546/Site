@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Vídeo Exemplo",
+    "url": "https://www.youtube.com/embed/ID_DO_VIDEO",
+    "type": "embed"
+  }
+]
